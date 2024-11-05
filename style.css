@@ -6,5 +6,10 @@
 h1{
     text-align: center;
     margin-top: 3%;
-    border-top: 2px solid black;
+    text-transform: uppercase;
+    
+}
+a{
+    display: inline;
+    color: black;
 }
